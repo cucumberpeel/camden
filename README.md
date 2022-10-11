@@ -1,2 +1,2 @@
 # camden
-camdenpulkinen.com
+Responsive personal webpage for camdenpulkinen.com
