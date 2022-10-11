@@ -1,2 +1,3 @@
 # camden
-Responsive personal webpage for camdenpulkinen.com
+Responsive personal website for Team USA figure skater Camden Pulkinen.
+camdenpulkinen.com
